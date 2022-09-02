@@ -45,7 +45,7 @@ Connect with me
 
 
 
-<a href="https://medium.com/@sberkay" target="_blank">
+<a href="https://medium.com/@senihberkay" target="_blank">
 <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
 </p>  
