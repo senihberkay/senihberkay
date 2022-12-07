@@ -17,7 +17,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. Working as a Data Science intern at Monster Notebook. Besides, to accelerate my education journey, I have signed up for Clarusway Bootcamp to become a data scientist. 
+Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. Working as a Database and Business Intelligence Developer at Monster Notebook.  
 </p>
 <center>
 <br>
