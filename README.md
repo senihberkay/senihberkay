@@ -17,9 +17,12 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Graduated with a degree in Computer Science and Engineering student from Sabanci University. Passionate Data Scientist with strong expertise in Python, SQL, and Data Visualization tools such as Tableau and PowerBI. Experienced in extracting, analyzing, and interpreting large datasets to drive business outcomes. Currently employed as a Database and Business Intelligence Developer at Monster Notebook. Besides, successfully completed the Clarusway Bootcamp, further enhancing my skills to embark on a fulfilling journey as a data scientist. Proven ability to build and deploy machine learning models, as well as design and implement ETL processes. 
+Graduated with a degree in Computer Science and Engineering student from Sabanci University. Passionate Data Scientist with strong expertise in Python, SQL, and Data Visualization tools such as Tableau and PowerBI. Experienced in extracting, analyzing, and interpreting large datasets to drive business outcomes. Currently employed as a Database and Business Intelligence Developer at Monster Notebook. Besides, successfully completed the Clarusway Bootcamp, further enhancing my skills to embark on a fulfilling journey as a data scientist. Proven ability to build and deploy machine learning models, as well as design and implement ETL processes.
+</p>
 
-Known for being a fast learner, ambitious and flexible, able to frequently step out of my comfort zone, work hard to achieve organizational objectives, and have the desire to create a positive, happy work environment. Personable, engaging, and able to build relationships quickly and easily. Looking for a challenging role in Data Science or Data Analytics to leverage my analytical skills and contribute to impactful data-driven decisions.  
+&ensp; &emsp;
+
+Known for being a fast learner, ambitious and flexible, able to frequently step out of my comfort zone, work hard to achieve organizational objectives, and have the desire to create a positive, happy work environment. Personable, engaging, and able to build relationships quickly and easily. Looking for a challenging role in Data Science or Data Analytics to leverage my analytical skills and contribute to impactful data-driven decisions. 
 </p>
 <center>
 <br>
