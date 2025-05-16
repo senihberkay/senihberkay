@@ -6,7 +6,7 @@
 
 ### Hi there, I am Senih Berkay <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-- 🔭 I’m currently working on Monster Notebook
+- 🔭 I’m currently working on Proj-e Yazılım
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything related data analysis and data visualization
 - 📫 How to reach me: senihberkay@gmail.com
