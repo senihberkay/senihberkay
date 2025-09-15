@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering graduate** from Sabancı University, currently working at **Proj-e Yazılım**. I'm passionate about transforming raw data into actionable insights and building intelligent systems that make a difference.
+I'm a **Computer Science & Engineering graduate** from Sabancı University, currently working at **Çalık Enerji**. I'm passionate about transforming raw data into actionable insights and building intelligent systems that make a difference.
 
 - 🔬 **Current Focus**: Machine Learning & Advanced Analytics
 - 💼 **Role**: Data Scientist at Çalık Enerji
-- 🌍 **Location**: Turkey (Open to global opportunities)
+- 🌍 **Location**: Turkey 
 - 📧 **Contact**: senihberkay@gmail.com
 
 ---
